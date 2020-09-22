@@ -6,4 +6,4 @@ console.log(cadenao.length);
 console.log(cadenao.indexOf("pez"));
 
 //Devuelve true o false.
-console.log(cadenao.includes("pez"));
+console.log(cadenao.includes("cadeno"));

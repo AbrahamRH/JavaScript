@@ -12,18 +12,18 @@ console.log(producto.replace("Monitor",'Monitor curvo'));
 //Slice:  para cortar
 
 
-console.log(producto.slice(0,10));
+console.log(producto.slice(8,10));
 
-console.log(producto.slice(8)); //Corta de ese numero hacia atras
+console.log(producto.slice(8)); //Corta de ese numero hacia enfrente
 
 
-console.log(producto.slice(2,1)); //No hace nada
+console.log("producto.slice(2,1)"); //No hace nada
 
-console.log(producto.substring(2,1));
+console.log(producto.substring(1,5));
 
 
 //CharAt
-
-console.log(producto.charAt(0));
+console.log("charAt")
+console.log(producto.charAt(-3));
 
 

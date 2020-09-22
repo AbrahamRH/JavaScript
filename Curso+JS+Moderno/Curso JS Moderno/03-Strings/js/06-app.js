@@ -11,4 +11,6 @@ console.log(`${repite} ${string3}`);
 
 const text = "Estoy aprendiendo Javascript";
 
-console.log(text.split(" "));
+let array = text.split(" ");
+
+console.log(array);
